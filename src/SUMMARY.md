@@ -12,3 +12,8 @@
 
 # Contributors
 - [Contributors](./contributors.md)
+
+# Appendix
+- [Appendix](./appendix.md)
+  - [Breaking Changes](./appendix/breaking-changes.md)
+  - [Work Log](./appendix/work-log.md)
